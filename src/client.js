@@ -10,5 +10,5 @@ const client =new Client({
 
 client.connect()
 .then(()=>console.log("Connected successfuly"))
-.catch(e=>console.log)
+.catch(e=>console.log("error"))
 .finally(()=>client.end())
