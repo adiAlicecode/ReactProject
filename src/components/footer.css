@@ -1,0 +1,13 @@
+p{
+    background-color:  #cc99ff;
+    color:   #4e357e;
+    font-size: 20px;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+}
+
+#footerBody{
+    position: relative;
+    height: 80vh;
+}

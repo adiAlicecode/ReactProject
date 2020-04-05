@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Alef&display=swap');
+
+body{
+    background-color:#d9b3ff;
+    font-family: 'Alef', sans-serif;
+    height: 100%;
+}
+
+button{
+    color:rgb(131, 18, 206);
+    background-color: transparent;
+    font-size: large;
+    width:9%;
+    border-radius: 8px;
+}
+@media only screen and (max-width: 600px) 
+{
+    body{
+          width: 100%;
+    }
+}
+  
