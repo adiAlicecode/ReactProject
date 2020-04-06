@@ -1,12 +1,12 @@
 import React,{Component} from 'react';
 import { Link} from "react-router-dom";
-
+import './CodeScreen.css'
 
 class CodeScreen extends Component{
   
     render(){
         return(
-          <div>
+          <div className="codeStyle">
               <label>Question Code:
                     <input type="text" required/>
                 </label>
@@ -17,5 +17,4 @@ class CodeScreen extends Component{
         );
     }
 }
-
 export default CodeScreen;

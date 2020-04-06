@@ -77,15 +77,11 @@ class Questions extends Component{
         });
     }
 
-
-
-    
     render(){
         const {showing}=this.state;
         return(
             <div>
                 <div id="center">
-                    Question-here will be the Question
                     <ol type='a'>
                         <li><button>answer1</button></li>
                         <li><button>answer2</button></li>

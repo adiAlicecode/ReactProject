@@ -15,7 +15,7 @@ input{
 }
 
 .box{
-    margin: 50px 0px 0px 500px;
+    text-align: center;
 }
 
 hr{
@@ -30,7 +30,8 @@ hr{
 }
 
 #text{
-    margin-left:760px;
+    text-align: center;
+
 }
 
 .errorMessage{
@@ -39,8 +40,9 @@ hr{
     font-size: 15px;
 }
 
-.select{
-    width: 280px;
+#select{
+    width: 300px;
+    text-align-last: center;
 }
 
 #number{

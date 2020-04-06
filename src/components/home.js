@@ -131,7 +131,7 @@ class Home extends Component{
                     </label>
                     <br />
                     <label>City:
-                        <Select className="select" options={cities} />
+                        <Select id="select" options={cities}/>
                     </label>
                     <br />
                     <button onClick={(e)=>{this.handleFormSubmit(e)}}>Click</button>
