@@ -11,8 +11,8 @@ input{
 #img2{
     height: 240px;
     position: absolute;
-    display: flex;
-    align-self: center;
+    margin:200px 800px 0px 0px;
+
 }
 
 .box{
@@ -26,7 +26,7 @@ hr{
 
 #bubble{
     height: 300px;
-    margin:60px 480px 0px 0px;
+    margin:60px 580px 0px 0px;
     position: absolute;
 }
 
@@ -42,9 +42,8 @@ hr{
 }
 
 #select{
-    width: 300px;
-    display: flex;
-    flex-basis: auto;
+    width: 240px;
+    margin-left: 42%;
 }
 
 #number{

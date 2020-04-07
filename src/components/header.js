@@ -8,7 +8,7 @@ class Header extends Component{
           <div>
               <span className="newTeamName"> {JSON.parse(sessionStorage.getItem("mySessionStorageDate"))}</span>
               <span className="title">Search for Alice </span>
-              <img src={logo} alt="Logo"/>
+              <img id="logo" src={logo} alt="Logo"/>
           </div>  
         );
     }
