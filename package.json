@@ -12,6 +12,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-inputs-validation": "^4.4.1",
+    "react-prefixer": "^2.0.1",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
     "react-select": "^3.1.0"
@@ -21,8 +22,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "debug":"react-scripts debug"
-    },
+    "debug": "react-scripts debug"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },

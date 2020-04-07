@@ -10,8 +10,9 @@ input{
 
 #img2{
     height: 240px;
-    margin: 200px 780px 0px 0px;
     position: absolute;
+    display: flex;
+    align-self: center;
 }
 
 .box{
@@ -42,7 +43,8 @@ hr{
 
 #select{
     width: 300px;
-    text-align-last: center;
+    display: flex;
+    flex-basis: auto;
 }
 
 #number{

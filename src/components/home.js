@@ -113,7 +113,7 @@ class Home extends Component{
         return(
         <form className="firstForm" >
             <img id="img2" src={logo} alt="Logo" />
-            <img id="bubble" src={bubble} alt="Logo" />
+            <img id="bubble" src={bubble} alt="Logo" /> 
             <div id="text"> <h3>Hello, you are in <br/>"Search for Alice" game! <br /> Fill in the deateils <br />and start to play!</h3>
             </div>
             <hr />
