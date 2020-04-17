@@ -10,7 +10,7 @@ button{
     color:rgb(131, 18, 206);
     background-color: transparent;
     font-size: large;
-    width:9%;
+    min-width: 100px;
     border-radius: 8px;
 }
 @media only screen and (max-width: 600px) 
